@@ -7,5 +7,7 @@ public class StudentWork implements Work {
     public void deWork() {
         System.out.println("学生做作业");
 
+
+
     }
 }
